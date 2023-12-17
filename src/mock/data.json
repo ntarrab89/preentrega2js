@@ -1,0 +1,82 @@
+
+[{
+    "id": 1,
+    "name": "Smart Tv Philco Pld43hs2250pi Led 43'' Full Hd",
+    "price": 460000,
+    "img": "tv1.jpeg",
+    "category": "tvs",
+    "stock": 72,
+    "description": "Tamaño de la pantalla: 43 (95.5 cm x 8.3 cm x 55.8 cm)"
+  }, {
+    "id": 2,
+    "name": "Smart TV Philips 7400 Series 50PUD7406/77 LED Android 10 4K 50' 110V/240V",
+    "price": 230000,
+    "img": "tv2.webp",
+    "category": "tvs",
+    "stock": 3,
+    "description": "Tamaño de la pantalla: 50' (1113 mm x 87.2 mm x 647.3 mm)"
+  }, {
+    "id": 3,
+     "name": "Smart TV Kanji KJ-32MT005 LED HD 32' 220V",
+    "price": 153000,
+    "img": "tv3.jpg",
+    "category": "tvs",
+    "stock": 89,
+    "description": "Tamaño de la pantalla: 50' (1113 mm x 87.2 mm x 647.3 mm)"
+  }, {
+    "id": 4,
+    "name": "Tv Led / Monitor Kodak 24' HD USB HDMI WE-24MT005",
+    "price": 125000,
+    "img": "tv4.jpg",
+    "category": "tvs",
+    "stock": 64,
+    "description": "Tamaño de la pantalla: 24'"
+  }, {
+    "id": 5,
+    "name": "Moto G13 64 GB gris oxford 4 GB RAM",
+    "price": 230000,
+    "img": "cell1.jpg",
+    "category": "celulares",
+    "stock": 44,
+    "description": "Tamaño de la pantalla: 6.5'(162.7 mm x 74.66 mm x 8.19 mm)"
+  }, {
+    "id": 6,
+    "name": "Positivo Q20 Dual SIM 128 GB midnight blue 4 GB RAM",
+    "price": 329000,
+    "img": "cell2.jpg",
+    "category": "celulares",
+    "stock": 90,
+    "description": "Tamaño de la pantalla: 6.1' (156.6 mm x 74.6 mm x 9.55 mm)"
+  }, {
+    "id": 7,
+    "name": "Celular Samsung Galaxy A04e 32 Gb Negro 3 Gb Ram",
+    "price": 32700,
+    "img": "cell3.jpg",
+    "category": "celulares",
+    "stock": 61,
+    "description": "Tamaño de la pantalla: 6.5 ' (164.2 mm x 75.9 mm x 9.1 mm)"
+  }, {
+    "id": 8,
+    "name": "Notebook Gamer Victus 16-D0528LA Intel Core i5-11400H 8GB RAM 256GB SSD NVIDIA RTX 3050 16,1” FHD",
+    "price": 686000,
+    "img": "laptop1.jpeg",
+    "category": "laptops",
+    "stock": 53,
+    "description": "La notebook HP Victus VICTUS 16-d0528la es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina."
+  }, {
+    "id": 9,
+    "name": "Notebook Dell Inspiron 3520 Intel Core I5 256gb Ssd 8gb Ram Color Plateado",
+    "price": 785000,
+    "img": "laptop2.jpeg",
+    "category": "laptops",
+    "stock": 68,
+    "description": "Pantalla con gran impacto visual. Su pantalla de 15.6' y 1920x1080 px de resolución te brindará colores más vivos y definidos. Tus películas y series preferidas cobrarán vida, ya que ganarán calidad y definición en cada detalle."
+  }, {
+    "id": 10,
+    "name": "Notebook Lenovo IdeaPad 15ALC7 abyss blue AMD Ryzen 3 5300U 24GB de RAM 1 TB SSD, AMD Radeon Graphics 6 60 Hz 1920x1080px Windows 11 Home",
+    "price": 31336,
+    "img": "laptop3.jpeg",
+    "category": "laptops",
+    "stock": 89,
+    "description": "La notebook Lenovo IdeaPad 15ALC7 fue pensada para hacer tu vida más sencilla. Su diseño elegante e innovador y su comodidad para transportarla, la convertirá en tu PC favorita. Cualquier tarea que te propongas, ya sea en casa o en la oficina, la harás con facilidad gracias a su poderoso rendimiento."
+  }]
